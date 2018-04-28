@@ -6,5 +6,4 @@ public class MakeChangeApp {
 		MakeChange mc = new MakeChange();
 		mc.run();
 	}
-
 }
